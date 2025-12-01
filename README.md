@@ -94,7 +94,7 @@ Tudo versionado, reprodutível e escalável.
 
 
 **📎Link do repositório:**  
-https://github.com/devpedrois/VitaSphere
+https://github.com/ildevdio/VitaSphere
 
 ---
 ## 💻Como executar localmente (sem Databricks)
