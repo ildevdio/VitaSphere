@@ -46,19 +46,13 @@ Nosso objetivo foi entregar **insights acionáveis** para gestores do SUS e da s
 
 ---
 ## Arquitetura da Solução (Databricks + Delta Lake)
-Raw (CSV)
-↓
-Bronze → ingestão sem alteração
-↓
-Silver → limpeza, tipos corretos, padronização
-↓
-Gold → tabelas analíticas otimizadas:
-├─ classes.gold.df_imunizacoes
-├─ classes.gold.df_exames
-└─ classes.gold.df_internacao
-↓
-Dashboards interativos (Plotly + Pandas)
-
+```mermaid
+graph TD
+    A[Raw CSV] --> B[Bronze<br>Ingestão bruta]
+    B --> C[Silver<br>Limpeza + Padronização]
+    C --> D[Gold<br>tabelas analíticas]
+    D --> E[Dashboards Interativos<br>Plotly + Pandas]
+```
 Tudo versionado, reprodutível e escalável.
 
 ---
