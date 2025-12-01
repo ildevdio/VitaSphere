@@ -5,7 +5,13 @@ Projeto final do Grupo 6 – Residência em Ciência de Dados
 
 Bem-vindo ao **VitaSphere**, nossa solução completa de Business Intelligence aplicada ao setor hospitalar brasileiro.  
 Transformamos 6 bases brutas (atendimentos, cirurgias, exames, internações, internações por município e imunizações) em dashboards interativos que respondem às principais tendências e desafios da saúde no Brasil em 2025.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)](#)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](#)
+[![Delta Lake](https://img.shields.io/badge/Delta_Lake-0055A4?style=flat&logo=delta-lake&logoColor=white)](#)
+[![Status: Concluído](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat)](#)
 
+---
 ---
 ## Sobre o Projeto
 O VitaSphere nasceu para responder às demandas reais do setor hospitalar brasileiro identificadas em 2024–2025:
