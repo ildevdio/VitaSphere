@@ -79,9 +79,9 @@ Tudo versionado, reprodutível e escalável.
 | Gabriela Bayo       | [@gabibayo](https://github.com/gabibayo)         | Arquitetura + Dashboard de Imunizações      |
 | Pedro Iranildo      | [@Devpedrois](https://github.com/devpedrois)     | Líder do Grupo + Dashboard de Internações   |
 | Gabriel Barbosa     | [@GazeT3](https://github.com/GazeT3)             | Dashboard de Exames + Evolução Temporal     |
-| Diogo Silas         | [@ildevdio](https://github.com/ildevdio)         | Camada Gold + Qualidade dos Dados         |
-| Rafael Aimbere      | [@codeblack2301](https://github.com/codeblack2301)| Documentação + README + Apresentação       |
-| João Vinicius       | [@sucogelad0](https://github.com/sucogelad0)     | Camada Silver + Otimização de Consultas       |
+| Diogo Silas         | [@ildevdio](https://github.com/ildevdio)         | Camada Gold + Qualidade dos Dados + README  |
+| Rafael Aimbere      | [@codeblack2301](https://github.com/codeblack2301)| Documentação + Slides                      |
+| João Vinicius       | [@sucogelad0](https://github.com/sucogelad0)     | Camada Silver + Otimização de Consultas     |
 
 **Todos participaram ativamente do código, das análises e da apresentação.**
 
