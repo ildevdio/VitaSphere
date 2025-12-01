@@ -46,6 +46,13 @@ Nosso objetivo foi entregar **insights acionáveis** para gestores do SUS e da s
   → Um apenas com os procedimentos dominantes  
 - 🔍 Visão cristalina do volume de internações
 
+### 4️⃣ Cirurgias no SUS — Visão Hierárquica e Temporal (2020–2025)  
+- Sunburst interativo com filtro de ano (2020 a 2025)  
+- Hierarquia completa: Ano → Tipo de Cirurgia → Doença → Resultado (Sucesso/Falha/Complicações)  
+- Evolução ano a ano com apenas um arrastar de slider  
+-  Identificação imediata dos tipos de cirurgia que mais cresceram pós-pandemia  
+-  Destaque visual para procedimentos de alto risco e taxa de complicações  
+-  📈Mais de 1.4 milhão de cirurgias analisadas em um único gráfico interativo
 ---
 
 ## 🏗️ Arquitetura da Solução (Databricks + Delta Lake)
