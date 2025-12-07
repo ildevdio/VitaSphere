@@ -50,9 +50,17 @@ Nosso objetivo foi entregar **insights acionáveis** para gestores do SUS e da s
 - Sunburst interativo com filtro de ano (2020 a 2025)  
 - Hierarquia completa: Ano → Tipo de Cirurgia → Doença → Resultado (Sucesso/Falha/Complicações)  
 - Evolução ano a ano com apenas um arrastar de slider  
--  Identificação imediata dos tipos de cirurgia que mais cresceram pós-pandemia  
--  Destaque visual para procedimentos de alto risco e taxa de complicações  
--  📈Mais de 1.4 milhão de cirurgias analisadas em um único gráfico interativo
+- Identificação imediata dos tipos de cirurgia que mais cresceram pós-pandemia  
+- Destaque visual para procedimentos de alto risco e taxa de complicações  
+- 📈Mais de 1.4 milhão de cirurgias analisadas em um único gráfico interativo
+
+### 5️⃣ Análise de Atendimentos por Localidade (2020–2025)  
+  - Dashboard 4-em-1 com visão completa por município/localidade  
+  - Top 20 localidades por volume de atendimentos  
+  - Ranking de atraso médio (em meses) entre consulta e atendimento  
+  - Histograma completo de diferenças temporais  
+  - Evolução anual das 5 localidades mais movimentadas  
+  - Identificação imediata de gargalos regionais no SUS
 ---
 
 ## 🏗️ Arquitetura da Solução (Databricks + Delta Lake)
