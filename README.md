@@ -61,6 +61,12 @@ Nosso objetivo foi entregar **insights acionáveis** para gestores do SUS e da s
   - Histograma completo de diferenças temporais  
   - Evolução anual das 5 localidades mais movimentadas  
   - Identificação imediata de gargalos regionais no SUS
+
+### 6️⃣ Distribuição de Valor Aprovado por Estado (SUS)
+  - Pie chart interativo com fatias por estado
+  - Ordenado pelo valor total aprovado (R$ bilhões)
+  - Hover mostra valor + quantidade de aprovações
+  - Identificação imediata dos estados que recebem mais investimento
 ---
 
 ## 🏗️ Arquitetura da Solução (Databricks + Delta Lake)
