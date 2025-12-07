@@ -131,4 +131,4 @@ python gold_internacao.py     # abre os gráficos de internação
 ```
 Todos os gráficos abrem automaticamente no navegador.
 
-VitaSphere – Transformando dados em saúde de verdade.
+# VitaSphere – Transformando dados em saúde de verdade.
