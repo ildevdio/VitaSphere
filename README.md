@@ -97,11 +97,11 @@ Tudo versionado, reprodutível e escalável.
 ## 👥Equipe do Grupo 6
 | Nome Completo       | GitHub                                     | Responsabilidade Principal                  |
 |---------------------|--------------------------------------------|---------------------------------------------|
-| Gabriela Bayo       | [@gabibayo](https://github.com/gabibayo)         | Arquitetura + Dashboard de Imunizações      |
+| Gabriela Bayo       | [@gabibayo](https://github.com/gabibayo)         | Arquitetura + Slides                        |
 | Pedro Iranildo      | [@Devpedrois](https://github.com/devpedrois)     | Líder do Grupo + Dashboard de Internações   |
 | Gabriel Barbosa     | [@GazeT3](https://github.com/GazeT3)             | Dashboard de Exames + Evolução Temporal     |
 | Diogo Silas         | [@ildevdio](https://github.com/ildevdio)         | Camada Gold + Qualidade dos Dados + README  |
-| Rafael Aimbere      | [@codeblack2301](https://github.com/codeblack2301)| Documentação + Slides                      |
+| Rafael Aimbere      | [@codeblack2301](https://github.com/codeblack2301)| Documentação + Dashboard de imnunizações                      |
 | João Vinicius       | [@sucogelad0](https://github.com/sucogelad0)     | Camada Silver + Otimização de Consultas     |
 
 **Todos participaram ativamente do código, das análises e da apresentação.**
