@@ -14,10 +14,6 @@ df_aprovacao = spark.sql("select * from classes.bronze.aprovacao_internacao_por_
 
 # COMMAND ----------
 
-display(df_aprovacao)
-
-# COMMAND ----------
-
 #muda os nomes das colunas
 df_aprovacao = (
     df_aprovacao
